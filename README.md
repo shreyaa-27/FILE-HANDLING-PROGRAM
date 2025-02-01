@@ -43,7 +43,7 @@ Error Messages: Improve error handling with custom messages for different scenar
 Binary File Handling: Extend the program to handle binary files using fwrite() and fread().
 Conclusion
 This program provides a simple yet effective way to handle text files using C. It utilizes essential file handling functions like fopen(), fgets(), fputs(), and fclose(), demonstrating how files can be written, read, and appended efficiently. Understanding this program is a crucial step toward mastering file handling in C, a fundamental concept in real-world applications like data logging, report generation, and configuration file management.
-
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/9eee4b03-cbb6-4ebf-bef7-9cc2d3b330ed" />
 
 
 
